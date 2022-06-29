@@ -1,4 +1,4 @@
-# Proyecto estrellas
+# Stars project
 
-Este proyecto tiene como objetivo, manipular imágenes reales donde se encuentren estrellas mediante el uso de Python y técnicas de topología digital, lo cual nos permitirá hacer un conteo de las estrellas presentes en la imagen.
-Además, se identificará si hay una mayor cantidad de estrellas jóvenes o adultas.
+This project aims to manipulate real images where stars are found through the use of Python and digital topology techniques, which will allow us to count the stars present in the image.
+In addition, it will be identified if there is a greater number of young or adult stars.
